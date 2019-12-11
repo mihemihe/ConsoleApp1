@@ -6,10 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("goodbye");
-            Console.WriteLine("anotherline");
-            CharEnumerator;
+            Console.WriteLine("CommitOrigin");
+            Console.WriteLine("moarlines");
         }
     }
 }
